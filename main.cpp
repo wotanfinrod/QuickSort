@@ -1,7 +1,4 @@
-/*
-Mustafa Yýlmaz Cakici
-150190737
-*/
+//Mustafa Yilmaz Cakici
 
 #include <iostream>
 #include <cstdlib>
